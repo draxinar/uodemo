@@ -11,6 +11,7 @@ This repository contains the following directories:
  - The `setup` directory contains the `UoDemoInstall.exe` executable, found at the root of the *Ultima Online: The Second Age* CD.
  - The `uodemo` directory contains the UoDemo files (`UoDemo.exe` and `uodemo.dat`), extraced from `UoDemoInstall.exe` (`data1.cab`).
  - The `rundir` directory contains the UoDemo data, extraced from `uodemo.dat`.
+ - The `rundir/scripts.wombat` directory contains the Wombat scripts, decompiled from `rundir/scripts`.
 
 Dates
 -----
